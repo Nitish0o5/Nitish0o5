@@ -43,9 +43,9 @@ Aspiring Software Engineer passionate about building scalable, real-world applic
 
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (add link)
+- 💼 LinkedIn: https://www.linkedin.com/in/nitish-s-m-50368928b/
 - 🌐 Portfolio: (optional)
-- 📧 Email: (optional)
+- 📧 Email: nitishrana173@gmail.com
 
 ⭐ If you like my work, feel free to star my repositories!  
 
